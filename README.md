@@ -1,4 +1,8 @@
 # EFI-MSI-H510M-BOMBER-i3-10105F-HD7850-Hackintosh
+
+# 2023.7.14 放暑假第一天
+Opencore Version Upgrade to 0.9.3
+
 OpenCore EFI
 Support Big Sur/Monterey/Ventura
 ### Specifications
